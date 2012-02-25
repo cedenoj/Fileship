@@ -1,0 +1,10 @@
+Weapon-X
+========
+A simple project to test out how workflow and using github to collaborate
+
+Docs
+----
+Let's try using git-flow to coordinate the workfow.
+
+1. [Installation Instructions](https://github.com/nvie/gitflow/wiki/Installation).
+2. [GitFlow Docs](https://github.com/nvie/gitflow)
